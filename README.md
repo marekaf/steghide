@@ -24,8 +24,8 @@ See steghide manual>
 docker run -it --rm -v "$(pwd):/src" bartimar/steghide \
  --help
 ```
-steghide version 0.5.1
 ```
+steghide version 0.5.1
 the first argument must be one of the following:
  embed, --embed          embed data
  extract, --extract      extract data
