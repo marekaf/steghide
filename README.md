@@ -25,7 +25,7 @@ docker run -it --rm -v "$(pwd):/src" bartimar/steghide \
  --help
 ```
 steghide version 0.5.1
-
+```
 the first argument must be one of the following:
  embed, --embed          embed data
  extract, --extract      extract data
@@ -74,3 +74,4 @@ options for the info command:
 
 To embed emb.txt in cvr.jpg: steghide embed -cf cvr.jpg -ef emb.txt
 To extract embedded data from stg.jpg: steghide extract -sf stg.jpg
+```
