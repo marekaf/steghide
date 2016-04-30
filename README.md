@@ -2,6 +2,7 @@
 
 Steghide version 0.5.1 based od debian:jessie is a powerful steganography CLI tool.
 
+[![](https://imagelayers.io/badge/bartimar/steghide:latest.svg)](https://imagelayers.io/?images=bartimar/steghide:latest 'Get your own badge on imagelayers.io')
 
 use steghide to embed a text file in your jpeg file
 
